@@ -4,6 +4,29 @@ Deliver While You Travel is a platform that connects travelers with senders who 
 
 ---
 
+## Screenshots
+
+Here are some glimpses of the application interface:
+
+**Main Interface:**
+![Main Frontend Interface](front.png)
+
+**Sender View:**
+![Sender Dashboard/View](sender.png)
+
+**Traveler View:**
+![Traveler Dashboard/View](traveler.png)
+
+**Shipment Tracking:**
+![Tracking Shipments Interface](track_my_shpipmets.png) 
+*(Note: Ensure the filename is exactly `track_my_shpipmets.png` if there's a typo)*
+
+**Chat Interface (Planned/Actual):**
+![Chat Interface](chat_interface.png)
+
+
+---
+
 ## Technologies Used
 - **Frontend**: React
 - **Backend**: Spring Boot (Java)
@@ -61,6 +84,7 @@ The main repository contains the following key directories:
     -   `public`: Static assets like `index.html`.
     -   `package.json`: Project dependencies and scripts (uses npm).
 -   **/[Other Folders]**: [e.g., Database scripts, Docker files, documentation]
+-   *(Image files like `front.png`, `sender.png`, etc. are also in the root)*
 
 ---
 
@@ -155,4 +179,4 @@ Follow these steps to set up and run the project locally. You will need Java (JD
 For any questions or support, please contact:
 - Basavaraj
 - bbasavarajnayak64@gmail.com
-- [Your Project Repository Link: https://github.com/Imbasava/Deliver-While-You-Commute]
+-  Repository Link: https://github.com/Imbasava/Deliver-While-You-Commute
